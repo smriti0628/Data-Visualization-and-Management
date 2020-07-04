@@ -1,2 +1,2 @@
 # Data-Visualization-and-Management
-The data used in this research has been collected from the GapMinder Dataset. The topic is to find the relation between employment rate, female employment rate and income per person.
+The data used in this research has been collected from the GapMinder Dataset. The topic is to find the relation between employment rate, female employment rate and income per person.All Data Management decisions has been made and graphical analysis is the major part of this project which concludes that there is strong relationship between employment rate and female employment rate.
